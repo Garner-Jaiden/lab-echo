@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/XA6KIXE6FBFM5EWSA25JI5YAU4.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+#containment-wrapper {
+    height: 80vh;
+}
+#doge-meme-pic {
+    height: 50vh;
+    width: auto;
+    border-radius: 11%;
+}
