@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
+body {
+ background-color: blue;
+  box-sizing: border-box;
+}
+
+h3,
+label,
+p {
+  
+}
+
+h3 {
+  color: white;
+  /*   font-family: "Roboto", sans-serif; */
+  font-family: "Quicksand", sans-serif;
+}
+
+label {
+  color: white;
+  font-family: "Quicksand", sans-serif;
+}
+
+.card {
+  margin-top: 1rem;
+}
